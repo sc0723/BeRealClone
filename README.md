@@ -35,14 +35,18 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Sign up and Post walkthrough:
+
 ![Kapture 2023-02-21 at 20 14 52](https://user-images.githubusercontent.com/89480509/220501772-befecb81-af24-468c-92c1-5a4c52a67447.gif)
 
 Login walkthrough:
 
+![Kapture 2023-02-21 at 21 03 44](https://user-images.githubusercontent.com/89480509/220502122-5f97897a-989f-4d10-afeb-f512c4f0e281.gif)
+
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -54,7 +58,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Saarth Chaturvedi
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
